@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+anytio
+httpx
+aiofiles
+aiohttp
+sech3r
+stoyled
+uniprox
+jinja2
